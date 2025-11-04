@@ -1,5 +1,4 @@
 # 🌦️ Weather Analytics Dashboard
-
 A modern and interactive weather intelligence platform that transforms raw meteorological data into **actionable insights** using advanced charts, analytics, and map visualizations.
 
 This project is designed to showcase **Data Analysis + Advanced UI + API Integrations** — perfect for LinkedIn and portfolio presentation ✅
