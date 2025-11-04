@@ -97,7 +97,7 @@ External Weather APIs (OpenWeather, OpenStreetMap)
 ##  👨‍💻 Developer
 ### Hassaan Shahid
 > Full-Stack Developer | Data Analytics | AI
-- 📍 Pakistan
+>📍 Pakistan
 
 - 📧 Email: [hassan's email](shahidhassaan17@gmail.com)
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/hassaanshahid217)
